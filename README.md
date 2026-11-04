@@ -1,5 +1,16 @@
-## CreatePortal vs dialog-element
-**React로 모달 구현하기 - CreatePortal과 Dialog 비교**
+# createPortal vs dialog element
 
-[개발 블로그 링크](https://blog.teamelysium.kr/ko/comparing-react-modals) <br/>
-[테스트 페이지 링크](https://sokkanji.github.io/createPortal-vs-dialog-element)
+A comparison of React modal approaches: `createPortal` vs the native `<dialog>` element.
+
+I built this to click through both and feel the differences myself.
+
+## Links
+
+- [Blog](https://blog.teamelysium.kr/ko/comparing-react-modals)
+- [Demo](https://sokkanji.github.io/createPortal-vs-dialog-element)
+
+## Run
+
+```bash
+yarn
+yarn dev
